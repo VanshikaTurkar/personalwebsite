@@ -1,7 +1,7 @@
 {
   "homepage": "http://vanshikaturkar.github.io/personalwebsite/",
   "name": "react-personal-website",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
